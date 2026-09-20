@@ -1,0 +1,4 @@
+{
+  "name": "LSC Enterprise Data Harmonization",
+  "install": "bash scripts/cloud-agent-install.sh"
+}
